@@ -1,0 +1,1 @@
+此脚本依赖AutohotKey。你可以使用Ctrl+Alt+空格来打开ChatGPT
